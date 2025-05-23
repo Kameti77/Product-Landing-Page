@@ -16,3 +16,6 @@ This repository features a product landing page for a guitar shop. It showcases 
 
 ## Author
 Kameti Kumbi
+
+## Link
+https://kameti77.github.io/Product-Landing-Page/
